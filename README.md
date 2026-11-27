@@ -1,131 +1,129 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,100:0891B2&height=230&section=header&text=Kashif%20Raza&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
+# Kashif Raza
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Experiences;Always+Learning+%7C+Always+Building" />
+### MERN Stack Developer
 
-<br/>
-
-<a href="https://github.com/kashifdesigner12-cyber">
-<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0891B2?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Dream+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow" />
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="35%" valign="top">
 
----
+## 👨‍💻 About Me
 
-## <img src="https://img.shields.io/badge/01-ABOUT_ME-0891B2?style=flat-square"/> 
+Full Stack Developer passionate about building modern, scalable and responsive web applications.
 
-```js
-const developer = {
-  name: "Kashif Raza",
-  role: "Full Stack Web Developer",
-  stack: "MERN",
-  technologies: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-  goal: "Build scalable and modern web applications"
-};
-```
+- 💻 MERN Stack Developer
+- 🎓 Computer Science Graduate
+- 🚀 Building modern web solutions
+- 🌱 Continuously learning
 
----
+</td>
+<td width="65%" valign="top">
 
-## <img src="https://img.shields.io/badge/02-TECH_STACK-0891B2?style=flat-square"/>
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### Frontend
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-<br/><br/>
-
-### Backend & Database
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<br/><br/>
-
-### Tools & Development
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-0891B2?style=flat-square"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+## 📊 GitHub Stats
 
-<a href="https://github.com/kashifdesigner12-cyber/localpro-inst-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kashifdesigner12-cyber&repo=localpro-inst-frontend&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=kashifdesigner12-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%"/>
 
-<a href="https://github.com/kashifdesigner12-cyber/localpro-inst-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kashifdesigner12-cyber&repo=localpro-inst-backend&theme=tokyonight&hide_border=true"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+## 🌐 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifdesigner12-cyber&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://img.shields.io/badge/04-GITHUB_ANALYTICS-0891B2?style=flat-square"/>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashifdesigner12-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+## 🔥 Contribution Streak
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifdesigner12-cyber&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kashifdesigner12-cyber&theme=tokyonight&hide_border=true" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=kashifdesigner12-cyber&theme=tokyonight&hide_border=true" width="85%"/>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/05-CONTRIBUTION_GRAPH-0891B2?style=flat-square"/>
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifdesigner12-cyber&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+### 🏫 Institute Management
 
-</div>
+Educational institute management system.
+
+**Tech:** React · Node · MongoDB
+
+</td>
+<td width="33%" valign="top">
+
+### 🏢 LocalPro
+
+Business management platform.
+
+**Tech:** Next.js · Express · MongoDB
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 E-Commerce
+
+Modern online shopping application.
+
+**Tech:** React · Node · MongoDB
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://img.shields.io/badge/06-CONNECT-0891B2?style=flat-square"/>
-
 <div align="center">
+
+## 🤝 Let's Connect
 
 <a href="https://github.com/kashifdesigner12-cyber">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kashifdesigner12-cyber&style=for-the-badge&color=00D9FF"/>
 
-### <img src="https://img.shields.io/badge/Let's_Build_Something_Amazing-0891B2?style=for-the-badge"/>
-
-<img src="https://komarev.com/ghpvc/?username=kashifdesigner12-cyber&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"/>
+### Let's Build Something Amazing Together!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0F172A,100:020617&height=120&section=footer" width="100%"/>
-
